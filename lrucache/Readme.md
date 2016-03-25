@@ -2,7 +2,6 @@
 The first method used
 
 	import (
-		"gw.com.cn/dzhyun/utils/lrucache"
 		"github.com/astaxie/beego/cache"
 	)
 
